@@ -49,12 +49,3 @@ gen
 *.zip
 *.tar.gz
 *.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-flink-1.10/pom.xml
-flink-1.10/src/
-flink-1.9/pom.xml
-flink-1.9/src/
-pom.xml
