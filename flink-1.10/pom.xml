@@ -17,7 +17,7 @@
         <hadoop.version>2.7.6</hadoop.version>
         <flink.version>1.10.0</flink.version>
         <guava.version>29.0-jre</guava.version>
-        <mysql.connect.version>8.0.16</mysql.connect.version>
+        <mysql.connect.version>8.0.28</mysql.connect.version>
         <fastjson.version>1.2.68</fastjson.version>
     </properties>
 
