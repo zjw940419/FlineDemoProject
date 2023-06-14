@@ -21,7 +21,7 @@
         <hadoop.version>2.7.6</hadoop.version>
         <!--源码分析使用1.9.x-->
         <flink.version>1.9.0</flink.version>
-        <guava.version>29.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
     </properties>
 
     <!-- update to the new one -->
